@@ -17,7 +17,7 @@
 </p>
 
 <div align="center">
-  <img src="https://i.gifer.com/9B9p.gif" width="600" alt="data science visualization" />
+  <img src="https://i.gifer.com/9B9p.gif" width="800" height="400" alt="data science visualization" />
 </div>
 
 <p align="center">
