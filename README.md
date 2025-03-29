@@ -17,7 +17,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjRkZnRxZXRkMnRjZWRwZnRqZnZqcWJqZXZxZXVqcGRkdnJqcXJrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" alt="data visualization gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVlNDZiMzRlMTJiMzVlZDVkNDY3ZDRlMzRlNzA1NjE3YzM2YzJiYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ohhwNqFMnb7wBgN6E/giphy.gif" width="400" alt="melancholy neural network gif" />
 </div>
 
 <p align="center">
@@ -67,7 +67,7 @@
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="65" height="65" />
       <br>AWS
     </td>
     <td align="center" width="96">
