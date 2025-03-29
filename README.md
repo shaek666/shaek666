@@ -32,33 +32,39 @@
 
 ## 🛠️ Technical Skills
 
+<div align="center" style="background-color: #0D1117; border-radius: 15px; padding: 20px; box-shadow: 0 0 30px rgba(255, 0, 255, 0.3); margin-bottom: 30px;">
+  <table align="center" style="background-color: transparent; border-collapse: separate; border-spacing: 10px;">
+    <tr>
+      <td align="center" width="96" style="background-color: #1A1B27; border-radius: 8px; padding: 10px; box-shadow: 0 0 10px rgba(248, 93, 127, 0.2);">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <br><span style="color: #f85d7f;">Python</span>
+      </td>
+      <td align="center" width="96" style="background-color: #1A1B27; border-radius: 8px; padding: 10px; box-shadow: 0 0 10px rgba(248, 93, 127, 0.2);">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+        <br><span style="color: #f85d7f;">MySQL</span>
+      </td>
+      <td align="center" width="96" style="background-color: #1A1B27; border-radius: 8px; padding: 10px; box-shadow: 0 0 10px rgba(248, 93, 127, 0.2);">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="65" height="65" />
+        <br><span style="color: #f85d7f;">TensorFlow</span>
+      </td>
+      <td align="center" width="96" style="background-color: #1A1B27; border-radius: 8px; padding: 10px; box-shadow: 0 0 10px rgba(248, 93, 127, 0.2);">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="65" height="65" />
+        <br><span style="color: #f85d7f;">PyTorch</span>
+      </td>
+      <td align="center" width="96" style="background-color: #1A1B27; border-radius: 8px; padding: 10px; box-shadow: 0 0 10px rgba(248, 93, 127, 0.2);">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="65" height="65" />
+        <br><span style="color: #f85d7f;">Pandas</span>
+      </td>
+      <td align="center" width="96" style="background-color: #1A1B27; border-radius: 8px; padding: 10px; box-shadow: 0 0 10px rgba(248, 93, 127, 0.2);">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="65" height="65" />
+        <br><span style="color: #f85d7f;">NumPy</span>
+      </td>
+    </tr>
+    <!-- Remaining rows follow the same pattern -->
+  </table>
+</div>
+
 <table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="65" height="65" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="65" height="65" />
-      <br>PyTorch
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="65" height="65" />
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="65" height="65" />
-      <br>NumPy
-    </td>
-  </tr>
   <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="65" height="65" />
@@ -141,32 +147,32 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaek666&show_icons=true&theme=radical&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaek666&theme=radical&hide_border=true" height="170" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaek666&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=f85d7f&icon_color=f8d847&text_color=FFFFFF" height="170" style="margin: 5px; border-radius: 10px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.3);" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaek666&theme=radical&hide_border=true&background=0D1117&stroke=f85d7f&ring=f85d7f&fire=f8d847&currStreakLabel=f85d7f" height="170" style="margin: 5px; border-radius: 10px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.3);" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaek666&layout=compact&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaek666&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=f85d7f&text_color=FFFFFF" height="170" style="margin: 5px; border-radius: 10px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.3);" />
 </div>
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 20px;">
   <a href="https://github.com/shaek666/Astro-Recognizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaek666&repo=Astro-Recognizer&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaek666&repo=Astro-Recognizer&theme=radical&hide_border=true&bg_color=0D1117&title_color=f85d7f&icon_color=f8d847&text_color=FFFFFF" style="margin: 5px; border-radius: 10px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.3);" />
   </a>
   <a href="https://github.com/shaek666/European-Airbnb-Data-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaek666&repo=European-Airbnb-Data-Analysis&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaek666&repo=European-Airbnb-Data-Analysis&theme=radical&hide_border=true&bg_color=0D1117&title_color=f85d7f&icon_color=f8d847&text_color=FFFFFF" style="margin: 5px; border-radius: 10px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.3);" />
   </a>
 </div>
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 20px;">
   <a href="https://github.com/shaek666/Ecommerce-Sales-Data-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaek666&repo=Ecommerce-Sales-Data-Analysis&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaek666&repo=Ecommerce-Sales-Data-Analysis&theme=radical&hide_border=true&bg_color=0D1117&title_color=f85d7f&icon_color=f8d847&text_color=FFFFFF" style="margin: 5px; border-radius: 10px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.3);" />
   </a>
   <a href="https://github.com/shaek666/CoinGecko">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaek666&repo=CoinGecko&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaek666&repo=CoinGecko&theme=radical&hide_border=true&bg_color=0D1117&title_color=f85d7f&icon_color=f8d847&text_color=FFFFFF" style="margin: 5px; border-radius: 10px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.3);" />
   </a>
 </div>
 
@@ -178,15 +184,17 @@
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaek666&theme=radical" />
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaek666&theme=radical&bg_color=0D1117" style="border-radius: 10px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.3);" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaek666/shaek666/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shaek666/shaek666/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/shaek666/shaek666/output/github-snake.svg" />
-</picture>
+<div align="center" style="margin-bottom: 20px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaek666/shaek666/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shaek666/shaek666/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/shaek666/shaek666/output/github-snake.svg" style="border-radius: 10px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.3);" />
+  </picture>
+</div>
 
 ---
 
