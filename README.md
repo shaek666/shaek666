@@ -17,7 +17,7 @@
 </p>
 
 <div align="center">
-  <img src="https://i.imgflip.com/65efzo.gif" width="200" alt="coding gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjRkZnRxZXRkMnRjZWRwZnRqZnZqcWJqZXZxZXVqcGRkdnJqcXJrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" alt="data visualization gif" />
 </div>
 
 <p align="center">
