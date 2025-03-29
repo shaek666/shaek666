@@ -79,6 +79,53 @@
       <br>Flask
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="65" height="65" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="65" height="65" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="65" height="65" />
+      <br>Linux
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="Assembly" width="65" height="65" />
+      <br>Assembly
+    </td>
+    <td align="center" width="96">
+      <!-- Empty cell -->
+    </td>
+    <td align="center" width="96">
+      <!-- Empty cell -->
+    </td>
+    <td align="center" width="96">
+      <!-- Empty cell -->
+    </td>
+    <td align="center" width="96">
+      <!-- Empty cell -->
+    </td>
+    <td align="center" width="96">
+      <!-- Empty cell -->
+    </td>
+  </tr>
 </table>
 
 ## 📊 GitHub Analytics
