@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shaek%20Ahmed&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </div>
 
-<h1 align="center">Machine Learning Engineer & Data Scientist</h1>
+<h1 align="center" style="font-family: 'Segoe UI', sans-serif; color: #333;">Machine Learning Engineer & Data Scientist</h1>
 
 <p align="center">
   <a href="mailto:shaekahmed69@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -17,18 +17,16 @@
 </p>
 
 <div align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2daddf3c-add4-4a2b-880d-064be6821c92/dglksej-3ed5f398-b5c8-4d98-b908-43438b2964f2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJkYWRkZjNjLWFkZDQtNGEyYi04ODBkLTA2NGJlNjgyMWM5MlwvZGdsa3Nlai0zZWQ1ZjM5OC1iNWM4LTRkOTgtYjkwOC00MzQzOGIyOTY0ZjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bxIHtLdJMge5rLi2vf8I4OD6fJr5XSKJXUHbofhWDT8" width="100%" style="border-radius:10px; box-shadow: 0 0 20px #ff00ff;" alt="cyberpunk visualization" />
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2daddf3c-add4-4a2b-880d-064be6821c92/dglksej-3ed5f398-b5c8-4d98-b908-43438b2964f2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJkYWRkZjNjLWFkZDQtNGEyYi04ODBkLTA2NGJlNjgyMWM5MlwvZGdsa3Nlai0zZWQ1ZjM5OC1iNWM4LTRkOTgtYjkwOC00MzQzOGIyOTY0ZjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bxIHtLdJMge5rLi2vf8I4OD6fJr5XSKJXUHbofhWDT8" width="90%" style="border-radius:15px; box-shadow: 0 0 30px rgba(255, 0, 255, 0.5);" alt="cyberpunk visualization" />
 </div>
 
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30"> 
-    <span style="background: linear-gradient(to right, #ff00ff, #00ffff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Hands Hot, Heart Cold!</span> 
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30">
+  <h2 style="font-family: 'Segoe UI', sans-serif; letter-spacing: 1.5px; margin: 1.5rem 0;">
+    <span style="background: linear-gradient(to right, #ff00ff, #00ffff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Crafting Intelligence from Data</span>
   </h2>
 </div>
 
-<p align="center">
+<p align="center" style="max-width: 75ch; margin: 1.5rem auto; font-size: 1.1em;">
   <i>Enthusiastic data scientist and ML engineer with expertise in building intelligent systems and extracting insights from complex datasets. Transforming data into actionable business solutions through advanced analytics and machine learning techniques.</i>
 </p>
 
@@ -131,7 +129,7 @@
       <br>Ruby
     </td>
     <td align="center" width="96">
-      <img src="https://www.tableau.com/sites/default/files/2022-04/TableauLogo_RGB.png" alt="Tableau" width="65" height="65" />
+      <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="65" height="65" />
       <br>Tableau
     </td>
     <td align="center" width="96">
