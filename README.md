@@ -111,6 +111,30 @@
       <br>Assembly
     </td>
     <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="65" height="65" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="65" height="65" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="65" height="65" />
+      <br>Ruby
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="65" height="65" />
+      <br>Tableau
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="65" height="65" />
+      <br>Power BI
+    </td>
+  </tr>
+    <td align="center" width="96">
+      <!-- Empty cell -->
+    </td>
+    <td align="center" width="96">
       <!-- Empty cell -->
     </td>
     <td align="center" width="96">
