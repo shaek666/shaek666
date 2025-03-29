@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:shaekahmed69@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/shaekahmed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/shaek666"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://twitch.tv/shaek69"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
   <a href="https://discord.gg/shaek0588"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://instagram.com/shaekforreal"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
@@ -17,11 +17,11 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzI0ZWZjMzM0ZWM0ZmM1NzFkZTM1YzIxZWM5ZDEzNzBkMzYxNmZlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif" width="400" alt="data science visualization" />
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*PuscwCsUr09xZ0SJ.gif" width="400" alt="data science visualization" />
 </div>
 
 <p align="center">
-  Passionate data scientist and ML engineer with expertise in building intelligent systems and extracting insights from complex datasets. Transforming data into actionable business solutions through advanced analytics and machine learning techniques.
+  Enthusiastic data scientist and ML engineer with expertise in building intelligent systems and extracting insights from complex datasets. Transforming data into actionable business solutions through advanced analytics and machine learning techniques.
 </p>
 
 ## 🛠️ Technical Skills
