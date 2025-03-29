@@ -17,7 +17,7 @@
 </p>
 
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*PuscwCsUr09xZ0SJ.gif" width="400" alt="data science visualization" />
+  <img src="https://cdn.dribbble.com/userupload/24090455/file/original-44d2d037ca9a45179a5237197cd6c31f.gif" width="400" alt="data science visualization" />
 </div>
 
 <p align="center">
