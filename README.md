@@ -37,19 +37,19 @@
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" alt="TensorFlow" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="65" height="65" />
       <br>TensorFlow
     </td>
     <td align="center" width="96">
-      <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" alt="PyTorch" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="65" height="65" />
       <br>PyTorch
     </td>
     <td align="center" width="96">
-      <img src="https://media.giphy.com/media/p7l6subf8WlFK/giphy.gif" alt="Pandas" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="65" height="65" />
       <br>Pandas
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="NumPy" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="65" height="65" />
       <br>NumPy
     </td>
   </tr>
@@ -129,25 +129,6 @@
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="65" height="65" />
       <br>Power BI
-    </td>
-  </tr>
-    <td align="center" width="96">
-      <!-- Empty cell -->
-    </td>
-    <td align="center" width="96">
-      <!-- Empty cell -->
-    </td>
-    <td align="center" width="96">
-      <!-- Empty cell -->
-    </td>
-    <td align="center" width="96">
-      <!-- Empty cell -->
-    </td>
-    <td align="center" width="96">
-      <!-- Empty cell -->
-    </td>
-    <td align="center" width="96">
-      <!-- Empty cell -->
     </td>
   </tr>
 </table>
