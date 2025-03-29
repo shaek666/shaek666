@@ -123,7 +123,7 @@
       <br>Ruby
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="65" height="65" />
+      <img src="https://www.tableau.com/sites/default/files/2022-04/TableauLogo_RGB.png" alt="Tableau" width="65" height="65" />
       <br>Tableau
     </td>
     <td align="center" width="96">
