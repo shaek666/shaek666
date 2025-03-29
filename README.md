@@ -1,71 +1,128 @@
-<h1 align="center">Shaek Ahmed</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shaek%20Ahmed&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+</div>
+
+<h1 align="center">Machine Learning Engineer & Data Scientist</h1>
 
 <p align="center">
-  <img src="https://i.imgflip.com/65efzo.gif" width="200" alt="coding gif" />
+  <a href="mailto:shaekahmed69@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/shaekahmed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/shaek666"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://discord.gg/shaek0588"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://instagram.com/shaekforreal"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  Passionate data scientist and ML engineer with expertise in building intelligent systems and extracting insights from complex datasets.
-  Based in Greece, transforming data into actionable business solutions.
+  <img src="https://komarev.com/ghpvc/?username=shaek666&style=flat-square&color=blue" alt="Profile views"/>
 </p>
-
-## 💻 Technical Skills
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" title="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow" title="TensorFlow" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch" title="PyTorch" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" title="Pandas" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" title="NumPy" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter" title="Jupyter" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" title="MySQL" />
+  <img src="https://i.imgflip.com/65efzo.gif" width="200" alt="coding gif" />
 </div>
+
+<p align="center">
+  Passionate data scientist and ML engineer with expertise in building intelligent systems and extracting insights from complex datasets. Transforming data into actionable business solutions through advanced analytics and machine learning techniques.
+</p>
+
+## 🛠️ Technical Skills
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="65" height="65" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="65" height="65" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="65" height="65" />
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="65" height="65" />
+      <br>NumPy
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="65" height="65" />
+      <br>Jupyter
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="65" height="65" />
+      <br>R
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="65" height="65" />
+      <br>Flask
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaek666&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaek666&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="180" alt="Languages Used" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shaek666&show_icons=true&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaek666&theme=radical&hide_border=true" height="170" />
 </div>
-
-## 🚀 Projects
-
-- **[Astro-Recognizer](https://github.com/shaek666/Astro-Recognizer)** - Machine learning model that identifies celestial objects from astronomical images, utilizing computer vision techniques and deep learning to classify stars, galaxies, and nebulae.
-
-- **[European Airbnb Data Analysis](https://github.com/shaek666/European-Airbnb-Data-Analysis)** - Comprehensive analysis of Airbnb market trends across major European cities, revealing pricing patterns, occupancy rates, and key factors influencing rental success.
-
-- **[Ecommerce Sales Data Analysis](https://github.com/shaek666/Ecommerce-Sales-Data-Analysis)** - In-depth exploration of ecommerce transaction data to identify customer purchasing behaviors, seasonal trends, and product performance metrics to drive strategic business decisions.
-
-## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/shaekahmed" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaek666&layout=compact&theme=radical&hide_border=true" height="170" />
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/shaek666/Astro-Recognizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaek666&repo=Astro-Recognizer&theme=radical&hide_border=true" />
   </a>
-  <a href="mailto:shaekahmed69@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail" />
-  </a>
-  <a href="https://discord.gg/shaek0588" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord" />
-  </a>
-  <a href="https://instagram.com/shaekforreal" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram" />
-  </a>
-  <a href="https://youtube.com/@shaekahmed8842" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube" />
-  </a>
-  <a href="https://twitch.tv/shaek69" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch" />
+  <a href="https://github.com/shaek666/European-Airbnb-Data-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaek666&repo=European-Airbnb-Data-Analysis&theme=radical&hide_border=true" />
   </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/shaek666/Ecommerce-Sales-Data-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaek666&repo=Ecommerce-Sales-Data-Analysis&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/shaek666/CoinGecko">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaek666&repo=CoinGecko&theme=radical&hide_border=true" />
+  </a>
+</div>
+
+## 💼 Professional Experience
+
+- **Data Scientist** - Analyzing complex datasets to extract actionable insights and develop predictive models
+- **Machine Learning Engineer** - Building and deploying ML models for real-world applications
+- **Data Analyst** - Transforming raw data into meaningful business intelligence through visualization and reporting
+
 ## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaek666&theme=radical" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaek666/shaek666/output/github-snake-dark.svg" />
@@ -74,6 +131,10 @@
 </picture>
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
 
 <p align="center">
   <i>Looking for new opportunities and collaborations in machine learning and data science. Feel free to reach out!</i>
