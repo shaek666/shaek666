@@ -7,9 +7,10 @@
 <p align="center">
   <a href="mailto:shaekahmed69@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/shaekahmed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitch.tv/shaek69"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+  <a href="https://twitch.tv/31f3zmmz7xrseohy7lo6bsj3otsy"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
   <a href="https://discord.gg/shaek0588"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://instagram.com/shaekforreal"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://open.spotify.com/user/31f3zmmz7xrseohy7lo6bsj3otsy"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -194,6 +195,12 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shaek666/shaek666/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/shaek666/shaek666/output/github-snake.svg" style="border-radius: 10px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.3);" />
   </picture>
+</div>
+
+<div align="center" style="background-color: #0D1117; border-radius: 15px; padding: 20px; box-shadow: 0 0 30px rgba(0, 255, 128, 0.3); margin-bottom: 30px;">
+  <a href="https://open.spotify.com/user/31f3zmmz7xrseohy7lo6bsj3otsy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31f3zmmz7xrseohy7lo6bsj3otsy&unique=true&count=5&width=600" alt="Spotify Recently Played" style="border-radius: 10px; box-shadow: 0 0 20px rgba(30, 215, 96, 0.3);" />
+  </a>
 </div>
 
 ---
