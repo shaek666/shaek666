@@ -39,59 +39,29 @@
       <td align="center" width="96" style="background-color: #1A1B27; border-radius: 8px; padding: 10px; box-shadow: 0 0 10px rgba(248, 93, 127, 0.2);">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
         <br><span style="color: #f85d7f;">Python</span>
-      </td>
+     </td>
       <td align="center" width="96" style="background-color: #1A1B27; border-radius: 8px; padding: 10px; box-shadow: 0 0 10px rgba(248, 93, 127, 0.2);">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
         <br><span style="color: #f85d7f;">MySQL</span>
-      </td>
-      <td align="center" width="96" style="background-color: #1A1B27; border-radius: 8px; padding: 10px; box-shadow: 0 0 10px rgba(248, 93, 127, 0.2);">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="65" height="65" />
-        <br><span style="color: #f85d7f;">TensorFlow</span>
-      </td>
-      <td align="center" width="96" style="background-color: #1A1B27; border-radius: 8px; padding: 10px; box-shadow: 0 0 10px rgba(248, 93, 127, 0.2);">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="65" height="65" />
-        <br><span style="color: #f85d7f;">PyTorch</span>
-      </td>
-      <td align="center" width="96" style="background-color: #1A1B27; border-radius: 8px; padding: 10px; box-shadow: 0 0 10px rgba(248, 93, 127, 0.2);">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="65" height="65" />
-        <br><span style="color: #f85d7f;">Pandas</span>
-      </td>
-      <td align="center" width="96" style="background-color: #1A1B27; border-radius: 8px; padding: 10px; box-shadow: 0 0 10px rgba(248, 93, 127, 0.2);">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="65" height="65" />
-        <br><span style="color: #f85d7f;">NumPy</span>
-      </td>
+     </td>
+      <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="65" height="65" />
+      <br>Docker
+     </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="65" height="65" />
+      <br>Flask
+    </td>
     </tr>
     <!-- Remaining rows follow the same pattern -->
   </table>
 </div>
 
 <table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="65" height="65" />
-      <br>Jupyter
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="65" height="65" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="65" height="65" />
-      <br>R
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="65" height="65" />
-      <br>Flask
-    </td>
-  </tr>
   <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="65" height="65" />
@@ -106,42 +76,12 @@
       <br>Java
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="65" height="65" />
       <br>PHP
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="65" height="65" />
       <br>Linux
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="Assembly" width="65" height="65" />
-      <br>Assembly
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="65" height="65" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="65" height="65" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="65" height="65" />
-      <br>Ruby
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="65" height="65" />
-      <br>Tableau
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="65" height="65" />
-      <br>Power BI
     </td>
   </tr>
 </table>
