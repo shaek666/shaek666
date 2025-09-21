@@ -210,5 +210,5 @@
 </div>
 
 <p align="center">
-  <i>Looking for new opportunities and collaborations in machine learning and data science. Feel free to reach out!</i>
+  <i>Looking for new opportunities and collaborations in CS. Feel free to reach out!</i>
 </p>
