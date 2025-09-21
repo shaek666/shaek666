@@ -103,25 +103,20 @@
   <a href="https://github.com/shaek666/Astro-Recognizer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaek666&repo=Astro-Recognizer&theme=radical&hide_border=true&bg_color=0D1117&title_color=f85d7f&icon_color=f8d847&text_color=FFFFFF" style="margin: 5px; border-radius: 10px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.3);" />
   </a>
-  <a href="https://github.com/shaek666/European-Airbnb-Data-Analysis">
+  <a href="https://github.com/shaek666/MultiLabel-BoardGame-Category-Classifier">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaek666&repo=European-Airbnb-Data-Analysis&theme=radical&hide_border=true&bg_color=0D1117&title_color=f85d7f&icon_color=f8d847&text_color=FFFFFF" style="margin: 5px; border-radius: 10px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.3);" />
   </a>
 </div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 20px;">
   <a href="https://github.com/shaek666/Ecommerce-Sales-Data-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaek666&repo=Ecommerce-Sales-Data-Analysis&theme=radical&hide_border=true&bg_color=0D1117&title_color=f85d7f&icon_color=f8d847&text_color=FFFFFF" style="margin: 5px; border-radius: 10px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.3);" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaek666&repo=MultiLabel-BoardGame-Category-Classifier
+&theme=radical&hide_border=true&bg_color=0D1117&title_color=f85d7f&icon_color=f8d847&text_color=FFFFFF" style="margin: 5px; border-radius: 10px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.3);" />
   </a>
-  <a href="https://github.com/shaek666/CoinGecko">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaek666&repo=CoinGecko&theme=radical&hide_border=true&bg_color=0D1117&title_color=f85d7f&icon_color=f8d847&text_color=FFFFFF" style="margin: 5px; border-radius: 10px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.3);" />
+  <a href="https://github.com/shaek666/AI-Chatbot-Backend-Only">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaek666&repo=AI-Chatbot-Backend-Only&theme=radical&hide_border=true&bg_color=0D1117&title_color=f85d7f&icon_color=f8d847&text_color=FFFFFF" style="margin: 5px; border-radius: 10px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.3);" />
   </a>
 </div>
-
-## 💼 Professional Experience
-
-- **Data Scientist** - Analyzing complex datasets to extract actionable insights and develop predictive models
-- **Machine Learning Engineer** - Building and deploying ML models for real-world applications
-- **Data Analyst** - Transforming raw data into meaningful business intelligence through visualization and reporting
 
 ## 📈 Contribution Graph
 
