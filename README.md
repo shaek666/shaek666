@@ -33,33 +33,31 @@
 
 ## 🛠️ Technical Skills
 
-<div align="center" style="background-color: #0D1117; border-radius: 15px; padding: 20px; box-shadow: 0 0 30px rgba(255, 0, 255, 0.3); margin-bottom: 30px;">
-  <table align="center" style="background-color: transparent; border-collapse: separate; border-spacing: 10px;">
+  <table align="center">
     <tr>
-      <td align="center" width="96" style="background-color: #1A1B27; border-radius: 8px; padding: 10px; box-shadow: 0 0 10px rgba(248, 93, 127, 0.2);">
+      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-        <br><span style="color: #f85d7f;">Python</span>
-     </td>
-      <td align="center" width="96" style="background-color: #1A1B27; border-radius: 8px; padding: 10px; box-shadow: 0 0 10px rgba(248, 93, 127, 0.2);">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-        <br><span style="color: #f85d7f;">MySQL</span>
+        <br>Python
      </td>
       <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65" />
+        <br>PostgreSQL
+     </td>
+      <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
       <br>Docker
      </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg"" alt="AWS" width="65" height="65" />
       <br>AWS
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/flask/flask-original.svg" alt="Flask" width="65" height="65" />
       <br>Flask
     </td>
     </tr>
     <!-- Remaining rows follow the same pattern -->
   </table>
-</div>
 
 <table align="center">
   <tr>
@@ -68,16 +66,16 @@
       <br>C
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
       <br>C++
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
       <br>Java
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="65" height="65" />
-      <br>PHP
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+      <br>Django
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="65" height="65" />
