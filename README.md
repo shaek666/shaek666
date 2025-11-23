@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shaek%20Ahmed&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </div>
 
-<h1 align="center" style="font-family: 'Segoe UI', sans-serif; color: #333;">Machine Learning Engineer & Data Scientist</h1>
-
 <p align="center">
   <a href="mailto:shaekahmed69@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/shaekahmed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -20,69 +18,6 @@
 <div align="center">
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2daddf3c-add4-4a2b-880d-064be6821c92/dglksej-3ed5f398-b5c8-4d98-b908-43438b2964f2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJkYWRkZjNjLWFkZDQtNGEyYi04ODBkLTA2NGJlNjgyMWM5MlwvZGdsa3Nlai0zZWQ1ZjM5OC1iNWM4LTRkOTgtYjkwOC00MzQzOGIyOTY0ZjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bxIHtLdJMge5rLi2vf8I4OD6fJr5XSKJXUHbofhWDT8" width="90%" style="border-radius:15px; box-shadow: 0 0 30px rgba(255, 0, 255, 0.5);" alt="cyberpunk visualization" />
 </div>
-
-<div align="center">
-  <h2 style="font-family: 'Segoe UI', sans-serif; letter-spacing: 1.5px; margin: 1.5rem 0;">
-    <span style="background: linear-gradient(to right, #ff00ff, #00ffff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Crafting Intelligence from Data</span>
-  </h2>
-</div>
-
-<p align="center" style="max-width: 75ch; margin: 1.5rem auto; font-size: 1.1em;">
-  <i>Enthusiastic data scientist and ML engineer with expertise in building intelligent systems and extracting insights from complex datasets. Transforming data into actionable business solutions through advanced analytics and machine learning techniques.</i>
-</p>
-
-## 🛠️ Technical Skills
-
-  <table align="center">
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-        <br>Python
-     </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65" />
-        <br>PostgreSQL
-     </td>
-      <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-      <br>Docker
-     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg"" alt="AWS" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/flask/flask-original.svg" alt="Flask" width="65" height="65" />
-      <br>Flask
-    </td>
-    </tr>
-    <!-- Remaining rows follow the same pattern -->
-  </table>
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="65" height="65" />
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="65" height="65" />
-      <br>Linux
-    </td>
-  </tr>
-</table>
 
 ## 📊 GitHub Analytics
 
