@@ -19,39 +19,7 @@
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2daddf3c-add4-4a2b-880d-064be6821c92/dglksej-3ed5f398-b5c8-4d98-b908-43438b2964f2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJkYWRkZjNjLWFkZDQtNGEyYi04ODBkLTA2NGJlNjgyMWM5MlwvZGdsa3Nlai0zZWQ1ZjM5OC1iNWM4LTRkOTgtYjkwOC00MzQzOGIyOTY0ZjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bxIHtLdJMge5rLi2vf8I4OD6fJr5XSKJXUHbofhWDT8" width="90%" style="border-radius:15px; box-shadow: 0 0 30px rgba(255, 0, 255, 0.5);" alt="cyberpunk visualization" />
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaek666&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=f85d7f&icon_color=f8d847&text_color=FFFFFF" height="170" style="margin: 5px; border-radius: 10px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.3);" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaek666&theme=radical&hide_border=true&background=0D1117&stroke=f85d7f&ring=f85d7f&fire=f8d847&currStreakLabel=f85d7f" height="170" style="margin: 5px; border-radius: 10px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.3);" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaek666&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=f85d7f&text_color=FFFFFF" height="170" style="margin: 5px; border-radius: 10px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.3);" />
-</div>
-
-## 🚀 Featured Projects
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 20px;">
-  <a href="https://github.com/shaek666/Astro-Recognizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaek666&repo=Astro-Recognizer&theme=radical&hide_border=true&bg_color=0D1117&title_color=f85d7f&icon_color=f8d847&text_color=FFFFFF" style="margin: 5px; border-radius: 10px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.3);" />
-  </a>
-  <a href="https://github.com/shaek666/MultiLabel-BoardGame-Category-Classifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaek666&repo=MultiLabel-BoardGame-Category-Classifier&theme=radical&hide_border=true&bg_color=0D1117&title_color=f85d7f&icon_color=f8d847&text_color=FFFFFF" style="margin: 5px; border-radius: 10px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.3);" />
-  </a>
-</div>
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 20px;">
-  <a href="https://github.com/shaek666/AI-Chatbot-Backend-Only">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaek666&repo=AI-Chatbot-Backend-Only&theme=radical&hide_border=true&bg_color=0D1117&title_color=f85d7f&icon_color=f8d847&text_color=FFFFFF" style="margin: 5px; border-radius: 10px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.3);" />
-  </a>
-</div>
-
 ## 📈 Contribution Graph
-
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaek666&theme=radical&bg_color=0D1117" style="border-radius: 10px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.3);" />
-</div>
 
 <div align="center" style="margin-bottom: 20px;">
   <picture>
