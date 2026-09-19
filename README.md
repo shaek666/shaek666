@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/shaek-a.png" alt="Shaek" width="500" />
+<img src="./assets/shaek-bold.png" alt="Shaek" width="100%" />
 </div>
 
 <div align="center">
