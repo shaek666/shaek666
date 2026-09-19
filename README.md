@@ -7,14 +7,12 @@
 </div>
 
 <p align="center">
-  <a href="mailto:shaekahmed69@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://x.com/shmokemad"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:shaekahmed69@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ```csharp
 var shaek = new {
-  WhoAmI = "Shaek Ahmed",
-  Pronouns = new[] { "he", "him" },
-  Location = "Dhaka, Bangladesh",
+  WhoAmI = "MD Shaek Ahmed",
   AskMeAbout = new[] { "REST APIs", "RAG systems", "mostly backend stuff", "AI services", "DSA", "system design" },
   Architecture = new[] { "Design Patterns from GoF", "REST", "Clean Code", "Clean Architecture", "microservices" },
   CurrentFocus = "Building reliable, scalable AI-powered backends, distributed systems and inference",
@@ -23,6 +21,12 @@ var shaek = new {
   GOAT = "Messi"
 };
 ```
+
+<h3 align="center">Stats</h3>
+
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/shaek666?theme=wtf&colors=0d1117,161b22,ffffff,8b949e,ffa116,5cb85c,f0ad4e,d9534f" alt="LeetCode Stats" />
+</div>
 
 <h3 align="center">Featured Projects</h3>
 
@@ -74,9 +78,10 @@ var shaek = new {
       <img height="18" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
       <img height="18" src="https://img.shields.io/badge/NLP-004482?style=flat-square&logoColor=white" alt="NLP" />
     </td>
-    <td><a href="https://github.com/shaek666/MultiLabel-BoardGame-Category-Classifier">Code</a></td>
+    <td><a href="https://github.com/shaek666/MultiLabel-BoardGame-Category-Classifier">Code</a> · <a href="https://multilabel-boardgame-category-classifier.onrender.com/">Demo*</a></td>
   </tr>
 </table>
+<p><sub>* Live demo runs on Render's free tier (yeah in this economy, don't judge me), first load can take several minutes while the instance spins up. Be patient. You're appreciated.</sub></p>
 
 </div>
 
@@ -118,7 +123,5 @@ var shaek = new {
 <br />
 <h3 align="center">Open to</h3>
 <p align="center"><b>Full-time</b> · <b>Open source collaborations</b></p>
-
-<img alt="github-snake" src="https://raw.githubusercontent.com/shaek666/shaek666/output/github-snake.svg" width="100%" />
 
 <p align="center"><sub>Learning it till earning it!</sub></p>
