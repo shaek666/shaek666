@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <a href="mailto:shaekahmed69@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://linkedin.com/in/shaekahmed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://x.com/shmokemad"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:shaekahmed69@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://x.com/shmokemad"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
 ```csharp
@@ -115,6 +115,8 @@ var shaek = new {
 <b>Other Tools</b><br /><br />
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=plastic&logo=playwright&logoColor=white" alt="Playwright" /> <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Prettier-F7B93E?style=plastic&logo=prettier&logoColor=black" alt="Prettier" /> <img src="https://img.shields.io/badge/NixOS-5277C3?style=plastic&logo=nixos&logoColor=white" alt="NixOS" />
 </div>
+
+<br />
 
 <h3 align="center">Open to</h3>
 
