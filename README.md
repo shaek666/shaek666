@@ -1,9 +1,9 @@
 <div align="center">
-<img src="./assets/shaek-a.png" alt="Shaek" width="100%" />
+<img src="./assets/shaek-a.png" alt="Shaek" width="500" />
 </div>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&width=240&center=true&lines=Software+Engineer;NixOS+Enjoyer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&pause=1000&color=FF2EA6&width=340&center=true&letterSpacing=2&lines=Software+Engineer;NixOS+Enjoyer" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
