@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/shaek-iso.png" alt="Shaek" width="100%" />
+<img src="./assets/shaek.png" alt="Shaek" width="500" />
 </div>
 
 <div align="center">
@@ -27,6 +27,58 @@ var shaek = new {
 <h3 align="center">Featured Projects</h3>
 
 <div align="center">
+
+<table>
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">Description</th>
+    <th align="left">Tech</th>
+    <th align="left">Links</th>
+  </tr>
+  <tr>
+    <td><b>ForgeORM</b></td>
+    <td align="left">Lightweight PostgreSQL ORM from scratch with ADO.NET, reflection, migrations</td>
+    <td>
+      <img height="18" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+      <img height="18" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+      <img height="18" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    </td>
+    <td><a href="https://github.com/shaek666/ForgeORM">Code</a></td>
+  </tr>
+  <tr>
+    <td><b>StackOverflow-Lite</b></td>
+    <td align="left">Q&A REST API, Clean Architecture, JWT, voting, tags, reputation</td>
+    <td>
+      <img height="18" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+      <img height="18" src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+      <img height="18" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    </td>
+    <td><a href="https://github.com/shaek666/StackOverflow-Lite">Code</a></td>
+  </tr>
+  <tr>
+    <td><b>lore-hound</b></td>
+    <td align="left">AI agent that hunts codebases, extracts patterns, Django-PostgreSQL</td>
+    <td>
+      <img height="18" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img height="18" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+      <img height="18" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img height="18" src="https://img.shields.io/badge/LLMs-6E56CF?style=flat-square&logoColor=white" alt="LLMs" />
+    </td>
+    <td><a href="https://github.com/shaek666/lore-hound">Code</a></td>
+  </tr>
+  <tr>
+    <td><b>MultiLabel-BoardGame-Classifier</b></td>
+    <td align="left">90-category text classifier from descriptions</td>
+    <td>
+      <img height="18" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img height="18" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+      <img height="18" src="https://img.shields.io/badge/NLP-004482?style=flat-square&logoColor=white" alt="NLP" />
+    </td>
+    <td><a href="https://github.com/shaek666/MultiLabel-BoardGame-Category-Classifier">Code</a></td>
+  </tr>
+</table>
+
+</div>
 
 <h3 align="center">Tech Stack</h3>
 
