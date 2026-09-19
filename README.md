@@ -115,11 +115,8 @@ var shaek = new {
 <b>Other Tools</b><br /><br />
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=plastic&logo=playwright&logoColor=white" alt="Playwright" /> <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Prettier-F7B93E?style=plastic&logo=prettier&logoColor=black" alt="Prettier" /> <img src="https://img.shields.io/badge/NixOS-5277C3?style=plastic&logo=nixos&logoColor=white" alt="NixOS" />
 </div>
-
 <br />
-
 <h3 align="center">Open to</h3>
-
 <p align="center"><b>Full-time</b> · <b>Open source collaborations</b></p>
 
 <img alt="github-snake" src="https://raw.githubusercontent.com/shaek666/shaek666/output/github-snake.svg" width="100%" />
