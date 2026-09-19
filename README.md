@@ -1,11 +1,10 @@
 <div align="center">
-<img src="./assets/shaek-bold.png" alt="Shaek" width="100%" />
+<img src="./assets/shaek-pulse.svg" alt="Shaek" width="100%" />
 </div>
 <br />
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&pause=1000&color=FF2EA6&width=340&center=true&letterSpacing=2&lines=Software+Engineer;NixOS+Enjoyer" alt="Typing SVG" /></a>
 </div>
-
 <p align="center">
   <a href="mailto:shaekahmed69@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -21,12 +20,6 @@ var shaek = new {
   GOAT = "Messi"
 };
 ```
-
-<h3 align="center">Stats</h3>
-
-<div align="center">
-<img src="https://leetcard.jacoblin.cool/shaek666?theme=wtf&colors=0d1117,161b22,ffffff,8b949e,ffa116,5cb85c,f0ad4e,d9534f" alt="LeetCode Stats" />
-</div>
 
 <h3 align="center">Featured Projects</h3>
 
@@ -81,7 +74,7 @@ var shaek = new {
     <td><a href="https://github.com/shaek666/MultiLabel-BoardGame-Category-Classifier">Code</a> · <a href="https://multilabel-boardgame-category-classifier.onrender.com/">Demo*</a></td>
   </tr>
 </table>
-<p><sub>* Live demo runs on Render's free tier (yeah in this economy, don't judge me), first load can take several minutes while the instance spins up. Be patient. You're appreciated.</sub></p>
+<p><sub>* Live demo runs on Render's free tier (yeah in this economy, don't judge me), first load can take several minutes while the instance spins up. Be patient.</sub></p>
 
 </div>
 
@@ -121,7 +114,8 @@ var shaek = new {
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=plastic&logo=playwright&logoColor=white" alt="Playwright" /> <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Prettier-F7B93E?style=plastic&logo=prettier&logoColor=black" alt="Prettier" /> <img src="https://img.shields.io/badge/NixOS-5277C3?style=plastic&logo=nixos&logoColor=white" alt="NixOS" />
 </div>
 <br />
-<h3 align="center">Open to</h3>
-<p align="center"><b>Full-time</b> · <b>Open source collaborations</b></p>
-
+<h3 align="center">Suffering Plaque</h3>
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/shaek666?theme=wtf&colors=0d1117,161b22,ffffff,8b949e,ffa116,5cb85c,f0ad4e,d9534f" alt="LeetCode Stats" />
+</div>
 <p align="center"><sub>Learning it till earning it!</sub></p>
