@@ -114,7 +114,7 @@ var shaek = new {
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=plastic&logo=playwright&logoColor=white" alt="Playwright" /> <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Prettier-F7B93E?style=plastic&logo=prettier&logoColor=black" alt="Prettier" /> <img src="https://img.shields.io/badge/NixOS-5277C3?style=plastic&logo=nixos&logoColor=white" alt="NixOS" />
 </div>
 <br />
-<h3 align="center">Suffering Plaque</h3>
+<h3 align="center">The Ordeal</h3>
 <div align="center">
 <img src="https://leetcard.jacoblin.cool/shaek666?theme=wtf&colors=0d1117,161b22,ffffff,8b949e,ffa116,5cb85c,f0ad4e,d9534f" alt="LeetCode Stats" />
 </div>
