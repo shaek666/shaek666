@@ -5,9 +5,6 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&pause=1000&color=5277C3&width=340&center=true&letterSpacing=2&lines=Software+Engineer;NixOS+Enjoyer" alt="Typing SVG" /></a>
 </div>
-<p align="center">
-  <a href="mailto:shaekahmed69@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
 
 ```csharp
 var shaek = new {
@@ -118,4 +115,8 @@ var shaek = new {
 <div align="center">
 <img src="https://leetcard.jacoblin.cool/shaek666?theme=wtf&colors=0d1117,161b22,ffffff,8b949e,ffa116,5cb85c,f0ad4e,d9534f" alt="LeetCode Stats" />
 </div>
+<br />
+<p align="center">
+  <a href="mailto:shaekahmed69@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 <p align="center"><sub>Learning it till earning it!</sub></p>
