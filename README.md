@@ -9,7 +9,6 @@
 ```csharp
 var shaek = new {
   WhoAmI = "MD Shaek Ahmed",
-  OS = new[] { "Linux", "NixOS" },
   AskMeAbout = new[] { "REST APIs", "RAG systems", "mostly backend stuff", "AI services", "DSA", "system design" },
   Architecture = new[] { "Design Patterns from GoF", "REST", "Clean Code", "Clean Architecture", "microservices" },
   CurrentFocus = "Building reliable, scalable AI-powered backends, distributed systems and inference",
@@ -112,12 +111,14 @@ var shaek = new {
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=plastic&logo=playwright&logoColor=white" alt="Playwright" /> <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Prettier-F7B93E?style=plastic&logo=prettier&logoColor=black" alt="Prettier" /> <img src="https://img.shields.io/badge/NixOS-5277C3?style=plastic&logo=nixos&logoColor=white" alt="NixOS" />
 </div>
 <br />
+<!-- HIDDEN until the grind pays off: The Ordeal + leetcard (uncomment to restore)
 <h3 align="center">The Ordeal</h3>
 <div align="center">
 <img src="https://leetcard.jacoblin.cool/shaek666?theme=wtf&colors=0d1117,161b22,ffffff,8b949e,ffa116,5cb85c,f0ad4e,d9534f" alt="LeetCode Stats" />
 </div>
+-->
 <br />
+<p align="center"><sub>Learning it till earning it!</sub></p>
 <p align="center">
   <a href="mailto:shaekahmed69@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-<p align="center"><sub>Learning it till earning it!</sub></p>
