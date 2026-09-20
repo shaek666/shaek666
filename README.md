@@ -9,6 +9,7 @@
 ```csharp
 var shaek = new {
   WhoAmI = "MD Shaek Ahmed",
+  OS = new[] { "Linux", "NixOS" },
   AskMeAbout = new[] { "REST APIs", "RAG systems", "mostly backend stuff", "AI services", "DSA", "system design" },
   Architecture = new[] { "Design Patterns from GoF", "REST", "Clean Code", "Clean Architecture", "microservices" },
   CurrentFocus = "Building reliable, scalable AI-powered backends, distributed systems and inference",
